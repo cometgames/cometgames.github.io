@@ -116,4 +116,10 @@ body {
     width: 100%;
   }
 }
+/* Style the 2nd header */
+.header2 {
+  background-image: url("BG.jpg");
+  padding: 20px;
+  text-align: middle;
+}
 
