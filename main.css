@@ -14,6 +14,7 @@ body {
 }
 #grad {
   background-image: linear-gradient(to right, Darkblue , blue);
+}
     h1 {
       color: #000099;
       font-size: 48px;
