@@ -12,6 +12,8 @@ body {
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
 }
+#grad {
+  background-image: linear-gradient(to right, Darkblue , blue);
     h1 {
       color: #000099;
       font-size: 48px;
@@ -120,9 +122,9 @@ body {
   }
 }
 /* Style the 2nd header */
-.header2 {
+.head2 {
   background-image: url("BG.jpg");
-  padding: 20px;
+  padding: 30px;
   text-align: middle;
 }
 
