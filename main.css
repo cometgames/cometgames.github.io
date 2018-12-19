@@ -119,6 +119,11 @@ body {
     width: 100%;
   }
 }
+.head2 {
+  background-image: url("BG.jpg");
+  padding: 20px;
+  text-align: middle;
+}
 
 
   
