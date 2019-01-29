@@ -25,6 +25,7 @@ body {
 #bodyp {
   font-family: Lato, Verdana, Geneva;
   font-size: 14px;
+  color: blue;
 }
     /* Style the top navigation bar */
 .topnav {
@@ -214,6 +215,11 @@ div.desc {
 .button5:hover {
   background-color: #555555;
   color: white;
+}
+#body {
+  font-family: Lato, Verdana;
+  font-size: 24;
+  color: blue;
 }
 
 
