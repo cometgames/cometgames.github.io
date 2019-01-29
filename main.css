@@ -22,6 +22,10 @@ body {
       font-size: 36px;
       font-family: Verdana, Geneva, sans-serif;
     }
+#bodyp {
+  font-family: Lato, Verdana, Geneva;
+  font-size: 14px;
+}
     /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
